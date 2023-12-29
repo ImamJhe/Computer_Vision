@@ -1,6 +1,8 @@
 ## Video Input
-https://github.com/ImamJhe/Computer_Vision/assets/95597578/f5bcdc0d-9a70-46cd-bafe-340db6014e1e
+https://github.com/ImamJhe/Computer_Vision/assets/95597578/e8c2d28e-f517-4c88-9f0f-b1f5f4e6b306
 
-## Result
-https://github.com/ImamJhe/Computer_Vision/assets/95597578/f998f8e3-884c-4c58-b1c0-48549c0b5893
+
+
+## Result 
+https://github.com/ImamJhe/Computer_Vision/assets/95597578/6e1c0165-23af-4b49-9ff5-22a582fe587f
 
